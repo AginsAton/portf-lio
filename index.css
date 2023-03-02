@@ -1,0 +1,8 @@
+body{
+background-color: rgb(10, 10, 43);
+color: azure;
+font-size: x-large;
+font-family:  Georgia, Times, 'Times New Roman', serif;
+
+flex-direction: row | row-reverse | column | column-reverse;
+}
