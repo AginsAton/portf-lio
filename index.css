@@ -6,3 +6,9 @@ font-family:  Georgia, Times, 'Times New Roman', serif;
 
 flex-direction: row | row-reverse | column | column-reverse;
 }
+.titulo{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
