@@ -12,3 +12,6 @@ flex-direction: row | row-reverse | column | column-reverse;
   align-items: center;
   justify-content: space-around;
 }
+meunome{
+  margin: 0.5px;
+}
