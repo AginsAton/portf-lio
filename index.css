@@ -1,8 +1,8 @@
 body{
-background-color: rgb(10, 10, 43);
+background-color: rgb(9, 58, 65);
 color: azure;
 font-size: x-large;
-font-family:  Georgia, Times, 'Times New Roman', serif;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 
 flex-direction: row | row-reverse | column | column-reverse;
 }
@@ -11,7 +11,9 @@ flex-direction: row | row-reverse | column | column-reverse;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
+
 }
 meunome{
-  margin: 0.5px;
+  margin: 0.05px;
+  
 }
