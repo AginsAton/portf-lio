@@ -15,5 +15,22 @@ flex-direction: row | row-reverse | column | column-reverse;
 }
 meunome{
   margin: 0.05px;
-  
+}
+  .logo{
+  display: inline-block;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  color: black;
+  font-size: xx-large;
+}
+
+.logoinsta{
+  display: inline-block;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  color: black;
+  font-size: xx-large;
+}
 }
