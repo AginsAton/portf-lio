@@ -1,9 +1,8 @@
 body{
-background-color: rgb(9, 58, 65);
-color: azure;
-font-size: x-large;
-font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-
+background-color: rgb(136, 100, 138);
+color: rgb(0, 0, 0);
+font-size: larger;
+font-family: 'Times New Roman', Times, serif;
 flex-direction: row | row-reverse | column | column-reverse;
 }
 .titulo{
@@ -11,7 +10,8 @@ flex-direction: row | row-reverse | column | column-reverse;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
-
+  font-size: larger;
+  
 }
 meunome{
   margin: 0.05px;
